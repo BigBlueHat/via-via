@@ -1,0 +1,17 @@
+{
+  "title": "Via Hypothes.is",
+  "name": "via-via",
+  "id": "via-via@bigbluehat.com",
+  "version": "0.0.1",
+  "description": "Annotate anything via the via.hypothes.is proxy service.",
+  "main": "index.js",
+  "author": "BigBlueHat <byoung@bigbluehat.com>",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "urlbarbutton": "pastak/moz-urlbarbutton#support-jpm"
+  }
+}
